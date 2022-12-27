@@ -1,1 +1,146 @@
-<mxfile host="app.diagrams.net" modified="2022-12-26T10:21:55.440Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" version="20.7.2" etag="FtCsj5vTS_oYWCRr4AM-" type="github"><diagram id="kBRFYzxLfPeYF8bWNi59">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-12-27T12:26:38.926Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" version="20.7.2" etag="D2CycJb8YcpVnY6GucYt" type="github" pages="3">
+  <diagram id="YH7ZUqBoVBe_uW9tiG4v" name="Page-1">
+    <mxGraphModel dx="1621" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="WlALXU9OTL-hQYzk0VmZ-6" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="350" width="490" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="WlALXU9OTL-hQYzk0VmZ-2" value="Numerical Data&lt;br&gt;boolean Data(T/F)&lt;br&gt;characters." style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="40" y="180" width="210" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="WlALXU9OTL-hQYzk0VmZ-3" value="integer&lt;br&gt;long&lt;br&gt;short&lt;br&gt;float&lt;br&gt;double&lt;br&gt;byte" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="380" width="140" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="WlALXU9OTL-hQYzk0VmZ-4" value="boolean" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="160" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WlALXU9OTL-hQYzk0VmZ-5" value="char" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="160" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WlALXU9OTL-hQYzk0VmZ-7" value="Data Types" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="10" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WlALXU9OTL-hQYzk0VmZ-8" value="no of bytes reqd for each type and range.&lt;br&gt;(assignment)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="414" y="420" width="146" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="WlALXU9OTL-hQYzk0VmZ-9" value="1. Leap year &amp;nbsp;: 1988, 2000, 1700, 1600, 2023&lt;br&gt;&lt;br&gt;%4 : in between century : %100 : 1-99 !=0&lt;br&gt;%400 : century&lt;br&gt;&lt;br&gt;2. strong number : 145 :&amp;nbsp;&lt;br&gt;145 = 1! + 4! + 5!&lt;br&gt;= 1 + 24 + 120&amp;nbsp;&lt;br&gt;=145&lt;br&gt;a. separate the digit from the number&lt;br&gt;b. calculate the factorial of a digit&lt;br&gt;c. sum of the factorials.&lt;br&gt;&lt;br&gt;3. Perfect Number : 28&amp;nbsp;&lt;br&gt;28/ 2 = 14&lt;br&gt;sum of factors of 28(28 is not inclusive)&lt;br&gt;1 - 14 : sum of the factors till 14.&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="730" y="320" width="550" height="510" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="C4MmEic0kwoNwgg-GIVX" name="OOPS">
+    <mxGraphModel dx="794" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="nThLAnu-8wgmTvOy4L-0-1" value="Object Oriented Programming:&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="240" y="110" width="400" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="nThLAnu-8wgmTvOy4L-0-2" value="4 major Pilars of OOPs :&amp;nbsp;&lt;br&gt;1. encapsulation&lt;br&gt;2. abstraction&lt;br&gt;3. Inheritance&amp;nbsp;&lt;br&gt;4. Polymorphism&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="350" y="450" width="270" height="200" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="c5TcT7ye4MasaKOQ1qaF" name="Layered Architecture">
+    <mxGraphModel dx="794" dy="1716" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="wSdHBa2cjtO-H7F2rmaD-1" value="Package :&amp;nbsp;&lt;br&gt;&lt;br&gt;com.companyName.projectName: basepackage&lt;br&gt;com.companyName.projectName.purpose :&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;br&gt;com.cg.emplmngt.dto : data transport object : these classes are used to transport the data from one layer to another.&lt;br&gt;&lt;br&gt;com.cg.emplmngt.service : it will hold all service classes.&lt;br&gt;com.cg.emplmngt.repository : it will hold all repos classes.&lt;br&gt;com.cg.emplmngt.exceptions: will hold all custom exceptions through out the application.&lt;br&gt;&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="150" y="-260" width="589" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="wSdHBa2cjtO-H7F2rmaD-2" value="array&amp;nbsp;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="397" y="770" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wSdHBa2cjtO-H7F2rmaD-3" value="will accept the data from user and we will store it in DB." style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="511" y="310" width="316" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wSdHBa2cjtO-H7F2rmaD-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="1" source="wSdHBa2cjtO-H7F2rmaD-4" target="wSdHBa2cjtO-H7F2rmaD-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wSdHBa2cjtO-H7F2rmaD-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="1" source="wSdHBa2cjtO-H7F2rmaD-4" target="wSdHBa2cjtO-H7F2rmaD-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wSdHBa2cjtO-H7F2rmaD-4" value="main" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="354" y="450" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wSdHBa2cjtO-H7F2rmaD-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=20;" edge="1" parent="1" source="wSdHBa2cjtO-H7F2rmaD-5" target="wSdHBa2cjtO-H7F2rmaD-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wSdHBa2cjtO-H7F2rmaD-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="1" source="wSdHBa2cjtO-H7F2rmaD-5" target="wSdHBa2cjtO-H7F2rmaD-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wSdHBa2cjtO-H7F2rmaD-5" value="service" style="whiteSpace=wrap;html=1;fontSize=20;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="358" y="520" width="116" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="wSdHBa2cjtO-H7F2rmaD-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=20;" edge="1" parent="1" source="wSdHBa2cjtO-H7F2rmaD-7" target="wSdHBa2cjtO-H7F2rmaD-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wSdHBa2cjtO-H7F2rmaD-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;" edge="1" parent="1" source="wSdHBa2cjtO-H7F2rmaD-7" target="wSdHBa2cjtO-H7F2rmaD-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wSdHBa2cjtO-H7F2rmaD-7" value="repository/ dao(data access object" style="whiteSpace=wrap;html=1;fontSize=20;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="590" width="146" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="wSdHBa2cjtO-H7F2rmaD-14" value="interface for our application &amp;nbsp;we will provide the input through main and we will get output in main." style="whiteSpace=wrap;html=1;fontSize=20;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="427.5" width="376" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="wSdHBa2cjtO-H7F2rmaD-16" value="1. all business validation will be done by the service layer.&lt;br&gt;2. interacting with DB after all validations to store the data." style="whiteSpace=wrap;html=1;fontSize=20;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="41" y="502.5" width="260" height="167.5" as="geometry" />
+        </mxCell>
+        <mxCell id="wSdHBa2cjtO-H7F2rmaD-18" value="will perform all DB related operations." style="whiteSpace=wrap;html=1;fontSize=20;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="600" width="240" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="wSdHBa2cjtO-H7F2rmaD-20" value="data(Employee employee)&lt;br&gt;&lt;br&gt;data(int empId, String name, float salary)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="160" y="940" width="620" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="wSdHBa2cjtO-H7F2rmaD-21" value="private : it will allow you to access the fields inside the class.&lt;br&gt;public : can be accessed anywhere." style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="250" y="1420" width="390" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="wSdHBa2cjtO-H7F2rmaD-22" value="1. stack : method execution will happen in stack&lt;br&gt;whatever the local variables / references&amp;nbsp;&lt;br&gt;2. heap : will have the newly created objects." style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="238" y="1680" width="462" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="wSdHBa2cjtO-H7F2rmaD-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="1" source="wSdHBa2cjtO-H7F2rmaD-23" target="wSdHBa2cjtO-H7F2rmaD-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wSdHBa2cjtO-H7F2rmaD-23" value="employee&amp;nbsp;" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.stackexchange;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="870" y="1720" width="230" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="wSdHBa2cjtO-H7F2rmaD-24" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#B0084D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.stack2;" vertex="1" parent="1">
+          <mxGeometry x="1380" y="1642" width="118" height="118" as="geometry" />
+        </mxCell>
+        <mxCell id="wSdHBa2cjtO-H7F2rmaD-26" value="" style="endArrow=none;html=1;rounded=0;fontSize=20;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="956" y="1630" as="sourcePoint" />
+            <mxPoint x="1070" y="1630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wSdHBa2cjtO-H7F2rmaD-27" value="" style="endArrow=none;html=1;rounded=0;fontSize=20;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="960" y="1630" as="sourcePoint" />
+            <mxPoint x="960" y="1530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wSdHBa2cjtO-H7F2rmaD-28" value="" style="endArrow=none;html=1;rounded=0;fontSize=20;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1070" y="1630" as="sourcePoint" />
+            <mxPoint x="1070" y="1530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wSdHBa2cjtO-H7F2rmaD-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="1" source="wSdHBa2cjtO-H7F2rmaD-29" target="wSdHBa2cjtO-H7F2rmaD-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wSdHBa2cjtO-H7F2rmaD-29" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="980" y="1580" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wSdHBa2cjtO-H7F2rmaD-30" value="" style="whiteSpace=wrap;html=1;fontSize=20;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1330" y="1500" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
