@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-28T13:21:14.178Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" etag="4TtDup93FlHI7FDcgPtl" version="20.7.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-12-29T11:51:24.659Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" etag="noZN3BfHTYlgEI_VqXNK" version="20.7.4" type="github" pages="5">
   <diagram id="YH7ZUqBoVBe_uW9tiG4v" name="Page-1">
-    <mxGraphModel dx="1621" dy="504" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1621" dy="416" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -164,6 +164,61 @@
         </mxCell>
         <mxCell id="6wNvKK6IP9VTC4ibjR1r-4" value="3. if the constructor is private then we have to create the object inside the class?&lt;br&gt;single object should be accessible to entire application?&lt;br&gt;&lt;br&gt;can we have a method which is responsible for creating the single object? yes&lt;br&gt;this method should be independent on the object for execution &amp;nbsp;==&amp;gt; static method." style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="170" y="370" width="410" height="290" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="fgBkZ6Q1__1WrsH-enb1" name="inheritance">
+    <mxGraphModel dx="794" dy="476" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="bupTC3ul20bvm2luuB0q-1" value="what is inheritance ?&lt;br style=&quot;font-size: 20px;&quot;&gt;a. single&lt;br style=&quot;font-size: 20px;&quot;&gt;multiple&lt;br style=&quot;font-size: 20px;&quot;&gt;multilevel&lt;br style=&quot;font-size: 20px;&quot;&gt;hierarchal" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="250" y="90" width="320" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="bupTC3ul20bvm2luuB0q-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="1" source="bupTC3ul20bvm2luuB0q-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bupTC3ul20bvm2luuB0q-2" value="Parent" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="270" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bupTC3ul20bvm2luuB0q-3" value="child" style="whiteSpace=wrap;html=1;fontSize=20;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="585" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bupTC3ul20bvm2luuB0q-5" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="570" y="430" width="380" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="bupTC3ul20bvm2luuB0q-6" value="when you will create an object of child" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="410" y="470" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="bupTC3ul20bvm2luuB0q-7" value="parent" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="590" y="450" width="150" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="bupTC3ul20bvm2luuB0q-8" value="child" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="780" y="450" width="150" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="bupTC3ul20bvm2luuB0q-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="1" source="bupTC3ul20bvm2luuB0q-9" target="bupTC3ul20bvm2luuB0q-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bupTC3ul20bvm2luuB0q-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="1" source="bupTC3ul20bvm2luuB0q-9" target="bupTC3ul20bvm2luuB0q-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bupTC3ul20bvm2luuB0q-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="1" source="bupTC3ul20bvm2luuB0q-9" target="bupTC3ul20bvm2luuB0q-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bupTC3ul20bvm2luuB0q-9" value="Employee" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="560" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bupTC3ul20bvm2luuB0q-10" value="Manager" style="whiteSpace=wrap;html=1;fontSize=20;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="890" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bupTC3ul20bvm2luuB0q-12" value="PM" style="whiteSpace=wrap;html=1;fontSize=20;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="900" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bupTC3ul20bvm2luuB0q-14" value="Account" style="whiteSpace=wrap;html=1;fontSize=20;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="795" y="900" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
